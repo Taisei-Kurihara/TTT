@@ -1,0 +1,9 @@
+/RPG/Library
+/RPG/Logs
+/RPG/Temp
+/RPG/UserSettings
+/RPG/obj
+/RPG/.vs
+
+*.sli
+*.vsconfig
