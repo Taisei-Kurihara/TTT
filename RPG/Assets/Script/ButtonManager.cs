@@ -7,9 +7,7 @@ using UnityEngine.SceneManagement;
 
 public class ButtonManager : MonoBehaviour
 {
-    [SerializeField]
-    List<Button> buttons;
-
+    int test;
     void Start()
     {
     }
